@@ -1,0 +1,12 @@
+----------------How to solve the errors----------------
+1) EOFError: EOF when reading a line
+--> Asking for input when no input should be taken. Specially occur when input is already taken and mistakenly assigning var to take the same input.
+
+------------------------------------------------------------------
+Note: 
+  for--
+    arr.index(element)
+ ----could be more complex than 
+  for--
+    while--
+------------------------------------------------------------------
